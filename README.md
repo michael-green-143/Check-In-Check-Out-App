@@ -8,4 +8,4 @@ This is the main repository for a project that our team is working on in collabo
 | Shak Ali | 
 | Jon Meli |
 ## Next steps for readme (this file)
-We need to work as a team to figure out what else should be in this readme file. We need a better description and documentation on stuff and more
+We need to work as a team to figure out what else should be in this readme file. We need a better description and documentation (could go in Wiki section on Git) on stuff and more
